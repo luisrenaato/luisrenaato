@@ -25,29 +25,13 @@ Atualmente, estou no **2º período**, desenvolvendo projetos práticos e aprimo
 
 ---
 
-### 🚀 Projeto em destaque
+### 🚀 Projeto de foco no momento
 
 🌱 **BOVITECH — Dashboard de Rebanho**
 
 Dashboard para análise e gerenciamento de dados de rebanho, com filtros, estatísticas e diferentes visualizações gráficas.
 
 **HTML • CSS • JavaScript • Google Sheets • Chart.js**
-
----
-
-### 📊 GitHub
-
-<p align="left">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=luisrenaato&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisrenaato&layout=compact&theme=tokyonight&langs_count=8"
-  />
-</p>
 
 ---
 
