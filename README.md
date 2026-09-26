@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia de Software | Desenvolvedor em formação`**
 
-Olá! Sou **Luis Renato**, estudante de **Engenharia de Software** e apaixonado por tecnologia e desenvolvimento de software.
+Olá! Sou **Luis Renato**, estudante de **Engenharia de Software** e gosto de estudar tecnologia e desenvolvimento de software.
 
 Atualmente, estou no **2º período**, desenvolvendo projetos práticos e aprimorando meus conhecimentos em programação e engenharia de software.
 
